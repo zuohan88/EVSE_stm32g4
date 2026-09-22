@@ -1,0 +1,4 @@
+../Core/Third_Party/TM/Low/ring_buf3.c:40:6:RingBuf3_ctor	40	static,ignoring_inline_asm
+../Core/Third_Party/TM/Low/ring_buf3.c:49:6:RingBuf3_put	56	static,ignoring_inline_asm
+../Core/Third_Party/TM/Low/ring_buf3.c:81:6:RingBuf3_get	48	static,ignoring_inline_asm
+../Core/Third_Party/TM/Low/ring_buf3.c:111:13:RingBuf3_num_free	40	static,ignoring_inline_asm

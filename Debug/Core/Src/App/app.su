@@ -1,0 +1,8 @@
+../Core/Src/App/app.c:109:6:Task_LED1	8	static
+../Core/Src/App/app.c:113:6:Task_test	8	static
+../Core/Src/App/app.c:118:6:QCA7000_START	16	static
+../Core/Src/App/app.c:135:6:app_init	8	static
+../Core/Src/App/app.c:179:6:app_run	8	static
+../Core/Src/App/app.c:200:6:runMyScheduler	16	static
+../Core/Src/App/app.c:231:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/App/app.c:241:6:Task_Check_PT1000	4	static

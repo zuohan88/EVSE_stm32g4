@@ -1,0 +1,7 @@
+../Core/Third_Party/pyplc/ccs/myHelpers.c:10:6:mySerialPrint	4	static
+../Core/Third_Party/pyplc/ccs/myHelpers.c:15:6:debug	1024	static
+../Core/Third_Party/pyplc/ccs/myHelpers.c:31:6:addToTrace	24	static
+../Core/Third_Party/pyplc/ccs/myHelpers.c:37:6:showAsHex	1040	static
+../Core/Third_Party/pyplc/ccs/myHelpers.c:50:6:sanityCheck	16	static
+../Core/Third_Party/pyplc/ccs/myHelpers.c:54:6:my_memcpy	40	static
+../Core/Third_Party/pyplc/ccs/myHelpers.c:61:6:my_memset	32	static
